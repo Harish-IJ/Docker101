@@ -1,5 +1,10 @@
 # Docker101 ft. Avg Web Dev
 
+- If you prefer a web article version, visit my [Notion Blog](https://harish-ij.notion.site/Docker-101-ft-Avg-Web-Dev-1addf534003480b7b76cfe4c8962e2dc?pvs=4)
+
+![Docker 101 thumb](https://github.com/user-attachments/assets/07682bc7-8b21-4654-93b6-b1ef899fc9ea)
+
+
 > Docker is a game-changer for modern application development, offering a lightweight and efficient alternative to traditional virtual machines. This article explores the core differences between Docker containers and hypervisor-based virtualization, while providing a practical guide on how to dockerize and streamline your applications. Whether you're a beginner or an experienced developer, you'll find essential Docker commands and insights to enhance your development workflow.
 > 
 
